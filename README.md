@@ -7,5 +7,5 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phat-kf&theme=algolia&layout=compact" alt="Top Langs"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phat-mk&hide=contribs,prs)
 </p>
